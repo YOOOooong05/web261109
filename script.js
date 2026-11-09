@@ -9,11 +9,12 @@ const titles = [
     "Spider-Man 3",
     "Spider-Man"
 ];
-
 const ratings = [8.3, 8.5, 7.9, 6.4, 7.3];
-
 const years = [2023, 2026, 2021, 2007, 2002];
 
+(function init(){
+    console.log("나는 함수다. 실행이 되었다");
+})();
 
 let sum = 0;
 
